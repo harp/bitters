@@ -9,7 +9,12 @@
 
 ## Install
 
-To install Bourbon, run the following command from the root of your harp project:
+To install Bitters, you can [download this repository](https://github.com/harp/bitters/archive/master.zip) or use the  [Component](http://component.io) package manager.
+
+```bash
+npm install -g component
+component install harp/bitters
+```
 
 ```bash
 harp install bitters
